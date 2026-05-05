@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vilanaturaadmin.showflat.com.sg/sitemap.xml
